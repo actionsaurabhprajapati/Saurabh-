@@ -1,0 +1,6 @@
+{
+  "name": "The Wedding Nazare Productions",
+  "description": "Cinematic wedding photography and films studio based in Sikandra, Agra, Uttar Pradesh. Capturing authentic emotions, sacred rituals, and heirloom wedding stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
